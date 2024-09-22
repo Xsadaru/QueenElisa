@@ -6,7 +6,7 @@ module.exports = {
   ALIVE_REACT: '💘',
   ALIVE_MESSAGE: `*මම පොඩ්ඩා`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://Iromd123:Iromd123@cluster0.ztjp9ny.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
