@@ -2,11 +2,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==AOwYTYu1yTSF2U3RlamZmSaJ0TRBVanpHaNxEbGhkSj1CUuRkYv5UTBZGMjIleCZlQ5MGZpwd=02982705749',
+  SESSION_ID: 'QUEENELISA;;;==QT4BVNOhESrBTZ6ZUcH5GcN1meIZUQSt2YwFFVo1SSwl2V1dFV5UXNFdDTjo1dTdEVOFUWpwd=31533414749',
   ALIVE_REACT: '💘',
   ALIVE_MESSAGE: `*මම පොඩ්ඩා`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: 'mongodb+srv://Iromd123:Iromd123@cluster0.ztjp9ny.mongodb.net/', 
+  MONGODB_URL: 'mongodb+srv://iroshana:iro123@cluster0.e7dr9.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
